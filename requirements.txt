@@ -1,0 +1,3 @@
+dash
+cohere
+python-dotenv
